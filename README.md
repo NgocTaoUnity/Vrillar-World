@@ -1,5 +1,4 @@
 # Vrillar_World
-Switch brand dev<br>
 Instructions to start the game:<br>
     Go to the folder "Scenes", enable the bootstrap scene and get start unity.<br>
     Use pop up Teleport to teleport the player.<br>
