@@ -1,6 +1,7 @@
 # Vrillar_World
 Instructions to start the game:<br>
 Go to the folder "Scenes", enable the bootstrap scene and get start unity.<br>
+Clock time and sun movement correspond to real time<br>
 Controll Player :<br>
 - Move: W-A-D-S<br>
 - Rotate: Right mouse<br>
