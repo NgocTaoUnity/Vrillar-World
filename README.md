@@ -1,6 +1,9 @@
 # Vrillar_World
 Instructions to start the game:<br>
 Go to the folder "Scenes", enable the bootstrap scene and get start unity.<br>
+Controll Player :<br>
+- Move: W-A-D-S<br>
+- Rotate: Right mouse<br>
 Use pop up Teleport to teleport the player.<br>
 For example: X: 100 Y:100 Then click the Confirm button.<br>
 To use the Set Time pop up, click on the clock item.<br>
